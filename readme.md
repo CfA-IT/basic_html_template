@@ -5,12 +5,11 @@
 <ul>
     <li>Linked stylesheets in own folder</li>
 
-    <li>Reset stylesheet from <a href="http://html5doctor.com/author/richc/"
-        target="_blank">Richard Clark</a> at <a href=
-        "http://html5doctor.com/html-5-reset-stylesheet/" target=
-        "_blank">HTML5Doctor</a>. Se links to learn more.
+    <li>normalize.css stylesheet from Nicolas Gallagher, co-created with Jonathan Neal. You can find it at <a href=
+        "https://github.com/necolas/normalize.css" target=
+        "_blank">Github</a>. Se link to learn more.
     </li>
-    <li>default.css for user styles.</li>
+    <li>style.css for user styles.</li>
 </ul>
 
 <p>The HTML has comments for beginners.</p>
